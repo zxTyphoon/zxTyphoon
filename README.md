@@ -38,6 +38,7 @@ I was born in Germany and spent 8 years living in New Mexico, 🇺🇸. I'm curr
 - [**Cinema Project_Backend**](https://github.com/rickertmar/KinoticketSystem.git): Cinema Ticket System backend
 - [**CardHub**](https://github.com/WWI22SEA/Anki-Project.git): Card Management System
 - [**Applied Project Paper**](https://github.com/zxTyphoon/applied-project-paper): Applied Project Paper on an AI Chatbot for Freudenberg & Co. KG
+- [**Distributed Systems Project**](https://github.com/K-Lorenz/VerteilteSystemeV2): A hotel and flight booking Project to learn distributed Systems
 <br>
  
 <h2 align="center"> 📫 How to reach me </h2>
