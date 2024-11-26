@@ -16,17 +16,23 @@ I was born in Germany and spent 8 years living in New Mexico, 🇺🇸. I'm curr
 
 <p align="center">
  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=oracle"/>
+ <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
- <img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql"/>
  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
- <img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js"/>
  <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js"/>
+ <img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js"/>
  <img src="https://img.shields.io/badge/-SvelteKit-black?style=flat-square&logo=svelte"/>
- <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+ <img src="https://img.shields.io/badge/-SAP%20UI5-black?style=flat-square&logo=sap"/>
+ <img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql"/>
  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
- <img src="https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code"/>
+ <img src="https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins"/>
+ <img src="https://img.shields.io/badge/-Sonar-black?style=flat-square&logo=sonar"/>
+ <img src="https://img.shields.io/badge/-SonarQube-black?style=flat-square&logo=sonarqube"/>
+ <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+ <img src="https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab"/>
 </p>
+
 ✨and some more....
 
 <br>
