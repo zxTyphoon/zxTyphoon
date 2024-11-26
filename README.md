@@ -56,5 +56,5 @@ I was born in Germany and spent 8 years living in New Mexico, 🇺🇸. I'm curr
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zxTyphoon&show_icons=true&locale=en&layout=compact&theme=ambient_gradient&line_height=0" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zxTyphoon&show_icons=true&theme=ambient_gradient&line_height=27&show=reviews,prs_merged,prs_merged_percentage&hide=stars&hide_rank=true&hide_title=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=zxTyphoon&show_icons=true&theme=ambient_gradient&line_height=27&show=prs_merged,prs_merged_percentage&hide=stars&hide_rank=true&hide_title=true&include_all_commits=true">
 </p> 
