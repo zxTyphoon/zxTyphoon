@@ -55,6 +55,7 @@ I was born in Germany and spent 8 years living in New Mexico, 🇺🇸. I'm curr
  </a>
    <a href="https://www.linkedin.com/in/tyler-straub-8b85b7252/">
   <img src="https://img.shields.io/badge/-Tyler Straub-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tyler-straub-8b85b7252/"/>
+  </a>
 </p>
  
 <h2 align="center"> My Github Stats </h2>
