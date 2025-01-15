@@ -53,7 +53,7 @@ I was born in Germany🇩🇪 and spent 8 years living in New Mexico, 🇺🇸. 
  <a href="mailto:seantylerstraub@gmail.com">
   <img src="https://img.shields.io/badge/-seantylerstraub@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seantylerstraub@gmail.com"/>
  </a>
-   <a href="https://www.linkedin.com/in/tyler-straub-8b85b7252/">
+   <a href="https://www.linkedin.com/in/sean-tyler-straub/">
   <img src="https://img.shields.io/badge/-Tyler Straub-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tyler-straub-8b85b7252/"/>
   </a>
 </p>
