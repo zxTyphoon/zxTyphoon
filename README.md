@@ -42,7 +42,6 @@ I was born in Germany🇩🇪 and spent 8 years living in New Mexico, 🇺🇸. 
 - [**innoAssist**](https://github.com/uiyoungkim/InnoAssist.git): First LLM Project - A Chatbot using OpenAI's API 
 - [**Cinema Project_Frontend**](https://github.com/rickertmar/KinoticketFrontend.git): Cinema Ticket System frontend
 - [**Cinema Project_Backend**](https://github.com/rickertmar/KinoticketSystem.git): Cinema Ticket System backend
-- [**CardHub**](https://github.com/WWI22SEA/Anki-Project.git): Card Management System
 - [**Applied Project Paper**](https://github.com/zxTyphoon/applied-project-paper): Applied Project Paper on an AI Chatbot for Freudenberg & Co. KG
 - [**Distributed Systems Project**](https://github.com/K-Lorenz/VerteilteSystemeV2): A hotel and flight booking Project to learn distributed Systems
 - [**Whitepaper SAP Drone Project**](https://github.com/zxTyphoon/Whitepaper_SAP_Drone-Project): Paper on two Proofs of Concept created for SAP Labs India
