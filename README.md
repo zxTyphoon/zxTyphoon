@@ -23,6 +23,7 @@ I was born in Germany🇩🇪 and spent 8 years living in New Mexico, 🇺🇸. 
  <img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js"/>
  <img src="https://img.shields.io/badge/-SvelteKit-black?style=flat-square&logo=svelte"/>
  <img src="https://img.shields.io/badge/-SAP%20UI5-black?style=flat-square&logo=sap"/>
+ <img src="https://img.shields.io/badge/-SAP%20CAP-black?style=flat-square&logo=sap"/>
  <img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql"/>
  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
  <img src="https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins"/>
