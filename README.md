@@ -47,7 +47,9 @@ I was born in Germany :de: and spent 8 years living in New Mexico, :us:. I'm cur
 - [**Distributed Systems Project**](https://github.com/K-Lorenz/VerteilteSystemeV2): A hotel and flight booking Project to learn distributed Systems
 - [**Whitepaper SAP Drone Project**](https://github.com/zxTyphoon/Whitepaper_SAP_Drone-Project): Paper on two Proofs of Concept created for SAP Labs India
 - [**Whitepaper SAP Champion Circle**](https://github.com/zxTyphoon/Whitepaper_SAP_Champion-Circle): Paper on a Proof of Concept created for SAP Labs India
-<br>
+- [**Leetcodes**](https://github.com/zxTyphoon/Leetcodes): Some Leetcodes I've done in my free time
+- [**JJ Straub Portfolio**](https://github.com/zxTyphoon/JJ-Straub): Actor Portfolio Website for my father
+- [**Penetration Test**](https://github.com/zxTyphoon/Pentest): Pen Test performed on a target IP adress for a University Project
  
 <h2 align="center"> 📫 How to reach me </h2>
  
