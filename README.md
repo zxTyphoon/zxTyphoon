@@ -10,6 +10,12 @@
 I was born in Germany :de: and spent 8 years living in New Mexico, :us:. I'm currently studying Business Informatics with a focus on Software Engineering 🎓 at DHBW Mannheim 🏛. I'm passionate about software development and always eager to learn new technologies💡. In my free time I like to work out and play video games.
 </p>
 
+<p align="center">
+📄 You can also find my <a href="https://github.com/zxTyphoon/zxTyphoon">résumé (Lebenslauf)</a> in my profile repository:<br>
+<code>Lebenslauf.pdf</code> for the German version<br>
+<code>cv.pdf</code> for the English version
+</p>
+
 <h1></h1>
 
 <h2 align="center">💻 Some of my learned technologies...</h2>
