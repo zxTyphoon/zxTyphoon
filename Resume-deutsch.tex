@@ -4,22 +4,28 @@
 % Spracheinstellungen
 \usepackage[german]{babel}
 
-% Schriftart
-\usepackage{fontspec}
-\setmainfont{Helvetica Neue}
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+\colorlet{awesome}{awesome-emerald}
+\setbool{acvSectionColorHighlight}{true}
 
 % Meta
 \name{Sean Tyler}{Straub}
-\position{Dualer Student Wirtschaftsinformatik – Software Engineering}
+\position{Dualer Student Wirtschaftsinformatik{\enskip\cdotp\enskip}Software Engineering}
 \address{Edith-Stein-Straße 66, 68766 Hockenheim}
-\mobile{+49 176 83180070}
+\mobile{(+49) 176 83180070}
 \email{seantylerstraub@gmail.com}
+\dateofbirth{19. Juni, 2003}
 \github{zxTyphoon}
 \linkedin{Sean-Tyler-Straub}
 
 \begin{document}
 
-\makecvheader
+\makecvheader[C]
+
+\makecvfooter
+  {\today}
+  {Sean Tyler Straub~~~·~~~Résumé}
+  {\thepage}
 
 \cvsection{Schulbildung}
 
