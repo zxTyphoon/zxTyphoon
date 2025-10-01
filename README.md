@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-I was born in Germany :de: and spent 8 years living in New Mexico, :us:. I'm currently studying Business Informatics with a focus on Software Engineering 🎓 at DHBW Mannheim 🏛. I'm passionate about software development and always eager to learn new technologies💡. In my free time I like to work out and play video games.
+I was born in Germany :de: and spent 8 years living in New Mexico, :us:. I'm currently working as an IT Innovation Project Coordinator at Freudenberg & Co. KG. I have a Bachelor of Science 🎓, having studied Software Engineering at DHBW Mannheim 🏛. I'm passionate about software development and always eager to learn new technologies 💡. In my free time, I enjoy working out and playing video games.
 </p>
 
 <p align="center">
