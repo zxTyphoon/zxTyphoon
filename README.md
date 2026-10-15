@@ -1,35 +1,33 @@
 <h1 align="center">
- ✨ Welcome to my Profile! ✨
+ Hi, I'm Tyler 👋
 </h1>
 <br>
-<h2 align="center">
- About Me
-</h2>
 
 <p align="center">
-I was born in Germany :de: and spent 8 years living in New Mexico, :us:. I'm currently working as an IT Innovation Project Coordinator at Freudenberg & Co. KG. I have a Bachelor of Science 🎓, having studied Software Engineering at DHBW Mannheim 🏛. I'm passionate about software development and always eager to learn new technologies 💡. In my free time, I enjoy working out and playing video games.
+I work in Corporate IT at Freudenberg & Co. KG as an IT Innovation Project Coordinator, where most of my work is around AI projects, and lately that means building custom agents in SAP Joule Studio. I did a dual Bachelor's in Business Informatics (Software Engineering) at DHBW Mannheim alongside my job at Freudenberg and wrote my thesis on using OCR and LLMs to support audit work. I grew up between Germany and New Mexico. Outside of work I'm usually at the gym, on a basketball court, or playing video games.
 </p>
 
 <p align="center">
-📄 You can also find my résumé (Lebenslauf) in my <a href="https://github.com/zxTyphoon/zxTyphoon">profile repository</a>:<br>
-<code><a href="/Resume-deutsch.pdf">Resume-deutsch.pdf </a></code> for the German version<br>
-<code><a href="/Resume-english.pdf">Resume-english.pdf</a></code> for the English version
+📄 Résumé: <a href="/Resume-english.pdf">English</a> · <a href="/Resume-deutsch.pdf">Deutsch</a>
 </p>
 
 <h1></h1>
 
-<h2 align="center">💻 Some of my learned technologies...</h2>
+<h2 align="center">💻 Tech I work with</h2>
 
 <p align="center">
  <img src="https://img.shields.io/badge/-Java-black?style=flat-square&logo=oracle"/>
  <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+ <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/>
  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
  <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js"/>
  <img src="https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js"/>
  <img src="https://img.shields.io/badge/-SvelteKit-black?style=flat-square&logo=svelte"/>
  <img src="https://img.shields.io/badge/-SAP%20UI5-black?style=flat-square&logo=sap"/>
  <img src="https://img.shields.io/badge/-SAP%20CAP-black?style=flat-square&logo=sap"/>
+ <img src="https://img.shields.io/badge/-SAP%20BTP-black?style=flat-square&logo=sap"/>
+ <img src="https://img.shields.io/badge/-SAP%20Joule%20Studio-black?style=flat-square&logo=sap"/>
  <img src="https://img.shields.io/badge/-SQL-black?style=flat-square&logo=mysql"/>
  <img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker"/>
  <img src="https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins"/>
@@ -40,23 +38,20 @@ I was born in Germany :de: and spent 8 years living in New Mexico, :us:. I'm cur
  <img src="https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab"/>
 </p>
 
-✨and some more....
-
 <br>
 
-<h2 align="center">🚀 My Projects</h2>
+<h2 align="center">🚀 Projects</h2>
 
-- [**innoAssist**](https://github.com/uiyoungkim/InnoAssist.git): First LLM Project - A Chatbot using OpenAI's API 
-- [**Cinema Project_Frontend**](https://github.com/rickertmar/KinoticketFrontend.git): Cinema Ticket System frontend
-- [**Cinema Project_Backend**](https://github.com/rickertmar/KinoticketSystem.git): Cinema Ticket System backend
-- [**Distributed Systems Project**](https://github.com/K-Lorenz/VerteilteSystemeV2): A hotel and flight booking Project to learn distributed Systems
-- [**Whitepaper SAP Drone Project**](https://github.com/zxTyphoon/Whitepaper_SAP_Drone-Project): Paper on two Proofs of Concept created for SAP Labs India
-- [**Whitepaper SAP Champion Circle**](https://github.com/zxTyphoon/Whitepaper_SAP_Champion-Circle): Paper on a Proof of Concept created for SAP Labs India
-- [**Leetcodes**](https://github.com/zxTyphoon/Leetcodes): Some Leetcodes I've done in my free time
-- [**JJ Straub Portfolio**](https://github.com/zxTyphoon/JJ-Straub): Actor Portfolio Website for my father
-- [**Penetration Test**](https://github.com/zxTyphoon/Pentest): Pen Test performed on a target IP adress for a University Project
-- [**Applied Project Paper**](https://github.com/zxTyphoon/applied-project-paper): Applied Project Paper on an AI Chatbot for Freudenberg & Co. KG
-- [**Bachelor Paper**](https://github.com/zxTyphoon/bachelor-thesis): Bachelor thesis about OCR + LLMs for Audit at Freudenberg & Co. KG
+- [**Bachelor Thesis**](https://github.com/zxTyphoon/bachelor-thesis): Using OCR and LLMs to support audit work at Freudenberg & Co. KG
+- [**Applied Project Paper**](https://github.com/zxTyphoon/applied-project-paper): An AI chatbot for Freudenberg & Co. KG
+- [**Whitepaper: SAP Drone Project**](https://github.com/zxTyphoon/Whitepaper_SAP_Drone-Project): Two proofs of concept built for SAP Labs India
+- [**Whitepaper: SAP Champion Circle**](https://github.com/zxTyphoon/Whitepaper_SAP_Champion-Circle): A proof of concept built for SAP Labs India
+- [**innoAssist**](https://github.com/uiyoungkim/InnoAssist.git): My first LLM project, a chatbot built on the OpenAI API
+- [**JJ Straub Portfolio**](https://github.com/zxTyphoon/JJ-Straub): Actor portfolio website for my father
+- [**Distributed Systems Project**](https://github.com/K-Lorenz/VerteilteSystemeV2): Hotel and flight booking system, built to learn distributed systems
+- [**Cinema Ticket System (Frontend)**](https://github.com/rickertmar/KinoticketFrontend.git) and [**(Backend)**](https://github.com/rickertmar/KinoticketSystem.git): Cinema ticket booking system
+- [**Penetration Test**](https://github.com/zxTyphoon/Pentest): Pen test of a target IP address for a university project
+- [**Leetcodes**](https://github.com/zxTyphoon/Leetcodes): LeetCode problems I've solved in my free time
  
 <h2 align="center"> 📫 How to reach me </h2>
  
@@ -69,13 +64,13 @@ I was born in Germany :de: and spent 8 years living in New Mexico, :us:. I'm cur
   </a>
 </p>
  
-<h2 align="center"> My Github Stats </h2>
+<h2 align="center"> GitHub Stats </h2>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=zxTyphoon&show_icons=true&locale=en&layout=compact&theme=ambient_gradient&line_height=0" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zxTyphoon&show_icons=true&theme=ambient_gradient&line_height=27&show=prs_merged,prs_merged_percentage&hide=stars&hide_rank=true&hide_title=true&include_all_commits=true">
-</p> 
+</p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxTyphoon&theme=ambient_gradient">
 </p>
